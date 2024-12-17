@@ -1,1 +1,1 @@
-# codewars-py
+# CodeWars py
